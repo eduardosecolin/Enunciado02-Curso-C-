@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Enunciado02.objetos.Acessorio">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAEAAAAAAAAAAAAAAQAAAAAAAAIAAA=</HashCode>
+      <FileName>objetos\Acessorio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enunciado02.objetos.Excecoes">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>objetos\Excecoes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enunciado02.objetos.Marca">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUABAAAAAAAAAAAEAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>objetos\Marca.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="listaCarro" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Enunciado02.objetos.Carro">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABACAAAAAQAAQEAAEAAAAAAgABABAAAAAAAAAIAAA=</HashCode>
+      <FileName>objetos\Carro.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="marca" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="listaAcessorio" />
+    </ShowAsCollectionAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Enunciado02.Program">
+    <Position X="0.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="listaCarro" />
+      <Field Name="listaMarca" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

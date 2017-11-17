@@ -1,0 +1,6 @@
+C:\Users\carlos\Desktop\Udemy\Csharp POO\PROJETOS\Enunciado02\Enunciado02\bin\Debug\Enunciado02.exe.config
+C:\Users\carlos\Desktop\Udemy\Csharp POO\PROJETOS\Enunciado02\Enunciado02\bin\Debug\Enunciado02.exe
+C:\Users\carlos\Desktop\Udemy\Csharp POO\PROJETOS\Enunciado02\Enunciado02\bin\Debug\Enunciado02.pdb
+C:\Users\carlos\Desktop\Udemy\Csharp POO\PROJETOS\Enunciado02\Enunciado02\obj\Debug\Enunciado02.csprojResolveAssemblyReference.cache
+C:\Users\carlos\Desktop\Udemy\Csharp POO\PROJETOS\Enunciado02\Enunciado02\obj\Debug\Enunciado02.exe
+C:\Users\carlos\Desktop\Udemy\Csharp POO\PROJETOS\Enunciado02\Enunciado02\obj\Debug\Enunciado02.pdb
